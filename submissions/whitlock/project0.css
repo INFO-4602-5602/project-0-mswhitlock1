@@ -15,6 +15,11 @@ body {
     stroke: #000;
 }
 
+.bar {
+    fill: #00f;
+    stroke: #000;
+}
+
 .label {
     text-anchor: middle;
     font-size: 12px;
