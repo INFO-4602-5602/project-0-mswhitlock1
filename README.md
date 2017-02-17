@@ -1,5 +1,15 @@
 # Project0
 
+<h1> Matt's Submission </h1>
+<h2> Getting Started</h2>
+In the target directory:
+<code>git clone https://github.com/INFO-4602-5602/project-0-mswhitlock1.git</code>
+<code>node node_modules\http-server\bin\http-server</code>
+<h3>or</h3>
+<code>node node_modules/http-server/bin/http-server</code>
+<h3>Navigate to localhost:8080/submissions/whitlock</h3>
+<h2>BELL: TOOLTIP</h2>
+
 <h1>Project 0: Visualizing Anscombe’s Quartet</h1>
 Due 11:59pm, Friday, February 17 through GitHub
 https://classroom.github.com/assignment-invitations/e212956ea5f76c1dff4c036b0e2679ee 
